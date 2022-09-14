@@ -1,5 +1,5 @@
 # nvidia_flow_unity
- A library for unity that implements nvidia flow.
+ A library for unity that implements nvidia flow. (no longer maintained, I have since switched to using nvidia flex)
 
  ## Intro:
  So basically this library should allow the use of nvidia flow inisde unity! The library is split into 2 parts: The raw side, and the clean side!
